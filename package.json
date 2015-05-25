@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "mijime",
   "license": "ISC",
   "devDependencies": {
     "coffee-script": "^1.9.2",
@@ -18,5 +18,13 @@
     "event-stream": "^3.3.1",
     "gulp-util": "^3.0.4",
     "through2": "^0.6.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mijime/gulp-dockerode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mijime/gulp-dockerode/issues"
+  },
+  "homepage": "https://github.com/mijime/gulp-dockerode"
 }
